@@ -1,0 +1,7 @@
+﻿  Linkedlist.cpp
+C:\C++ Code\TEST\TEST\Linkedlist.cpp(28,18): error C2059: syntax error: '||'
+C:\C++ Code\TEST\TEST\Linkedlist.cpp(28,43): error C2143: syntax error: missing ';' before '{'
+  Nonprofessional.cpp
+C:\C++ Code\TEST\TEST\Nonprofessional.cpp(22,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Professional.cpp
+  Generating Code...
